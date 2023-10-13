@@ -1,4 +1,6 @@
 # Project setup
+主要練習以 Cypress 撰寫 end-to-end 測試，todos 範例可以參考 [這裡](https://v2.vuejs.org/v2/examples/todomvc)。
+
 ### Install all dependencies for project
 ```
 yarn install
